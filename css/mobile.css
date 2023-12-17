@@ -33,9 +33,18 @@
 
   #nav-bar .nav-bar--item:hover {
     color: #fff;
-    /* background-color: #40c057; */
+    background-color: #40c057;
     border-radius: 10px;
   }
+
+#nav-bar a:hover {
+    color: none;
+    background-color: none;
+    border-radius: none;
+    padding: none;
+    box-shadow: none;
+  }
+  
   /*  END navbar */
 
   /* Phần Thông tin cá nhân */
