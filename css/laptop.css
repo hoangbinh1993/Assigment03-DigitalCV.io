@@ -40,7 +40,7 @@ section > .container {
     url(../images/banner.jpg);
   height: 70vh;
   background-size: cover;
-  /* background-position: center; */
+  background-position: center;
   text-align: center;
   color: #fff;
   position: relative;
